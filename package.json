@@ -29,7 +29,7 @@
     "express": "^4.16.4",
     "pty.js": "github:p-mcgowan/pty.js",
     "socket.io": "^2.2.0",
-    "xterm": "^3.8.0"
+    "term.js": "git+ssh://git@github.com/p-mcgowan/term.js.git"
   },
   "engines": {
     "node": ">= 0.8.0"
